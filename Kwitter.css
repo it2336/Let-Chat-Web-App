@@ -1,0 +1,31 @@
+#body{
+background-color: deeppink; 
+}
+aside{
+    float: left;
+}
+#welcome{
+    width:500px; 
+    height: 1000px;
+}
+#kwitter{
+    padding: 20px;
+    text-shadow: 3px 5px yellow;
+    color: chartreuse;
+    font-size: 30px;
+}
+body{
+    background-color: blue;
+}
+#sign_up{
+    font-size: 30px;
+}
+#button{
+    float: right;
+}
+#content{
+    background-color: crimson;
+}
+body{
+    background-color: aqua;
+}
